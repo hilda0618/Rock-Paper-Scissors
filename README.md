@@ -1,4 +1,4 @@
-# 🪨 Rock, Paper, Scissors – Python Project (V1 & V2)
+# Rock, Paper, Scissors – Python Project (V1 & V2)
 
 ## 👩‍🏫 7th Grade Computer Science – Ms. Liu  
 **All instructional content created by Hilda Liu**  
